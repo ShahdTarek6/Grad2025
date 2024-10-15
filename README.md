@@ -16,3 +16,5 @@
     - Golden-Spots
     - Light-Golden-Spots
     - Shadow
+**Result Detection:** [Detection Results Spreadsheet](https://docs.google.com/spreadsheets/d/1B0EkkMHLF7vGBj00FyfdfzsOrdJFMaX_Gut8jusKtmE/edit?usp=sharing)  
+**Result Classification:** [Classification Results Spreadsheet](https://docs.google.com/spreadsheets/d/1iJ2vkjUTrJo6LWGcjW9aBfnlFOb0CRnxeN9u91fa_VQ/edit?usp=sharing)
