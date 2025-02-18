@@ -1,0 +1,9 @@
+!pip install roboflow
+
+from roboflow import Roboflow
+rf = Roboflow(api_key="ffZkX9TjuFdKIrPjNcjL")
+project = rf.workspace("ab9353678").project("solar3.0")
+version = project.version(3)
+dataset = version.download("yolov8")
+                ---------------
+https://universe.roboflow.com/ab9353678/solar3.0
